@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="main_fragment" type="id">j</item>
+    <item name="main_edit_text" type="id" />
+    <item name="main_edit_textbv" type="id" />
+    <item name="add_btn" type="id" />
+    <item name="add_btnm" type="id" />
+    <item name="sort_btnm" type="id" />
+    <item name="sort_btnk" type="id" />
+    <item name="sort_btnn" type="id" />
+    <item name="sort_btnl" type="id">k</item>
+    <item name="sort_btn" type="id">b</item>
+    <item name="card_view" type="id">n</item>
+</resources>
